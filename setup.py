@@ -52,7 +52,7 @@ setup(
         "six==1.16.0",  # May 5, 2021
         "SQLAlchemy==1.3.24",  # Mar 31, 2021
         "tzlocal==1.5.1",  # Dec 1, 2017
-        "w3lib==2.0.0",  # Aug 11, 2022
+        "w3lib>=2.0.0, <3",  # Aug 11, 2022
         "Werkzeug==2.0.0",  # May 12, 2021
     ],
 
